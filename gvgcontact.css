@@ -1,0 +1,27 @@
+body{
+  background: #ccffcc;
+}
+* {
+  font-family: Georgia;
+}
+/*lekker stylen*/
+h1 {
+  color: #009900;
+  width: 20%;
+  font-size: 50px;
+}
+
+
+p {
+  color: #009900;
+  font-size: 30px;
+  width: 30%;
+}
+
+ul {
+  color: #000;
+  font-size: 30px;
+  width: 30%;
+}
+
+.plaaatje {border-radius: 50%}
