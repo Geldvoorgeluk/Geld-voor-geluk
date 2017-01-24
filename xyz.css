@@ -25,6 +25,12 @@ p {
 }
 
 ul {
+  margin: 0 auto;
+  padding: 100;
+  width: 50%;
+}
+
+ul {
   color: #000;
   font-size: 30px;
   width: 30%;
